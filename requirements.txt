@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+Pillow
+opencv-python
+pandas
+requests
+beautifulsoup4
